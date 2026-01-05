@@ -1,0 +1,23 @@
+﻿numpy>=2.2
+pandas>=2.3
+scipy>=1.15
+networkx>=3.4
+matplotlib>=3.10
+pillow>=12.0
+requests>=2.32
+
+# Optimization / Evolutionary Algorithms
+pymoo>=0.6
+deap>=1.4
+autograd>=1.8
+cma>=4.4
+
+# Visualization / Web
+streamlit>=1.52
+altair>=6.0
+folium>=0.20
+pydeck>=0.9
+
+# Utilities
+GitPython>=3.1
+psutil>=7.1
