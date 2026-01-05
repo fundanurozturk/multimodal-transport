@@ -1,0 +1,11 @@
+node_id,name,x,y,has_metro,has_bus,has_train,has_bike
+N1,Kizilay,0.0,0.0,1,1,0,1
+N2,Sihhiye,0.5,-0.3,1,1,0,0
+N3,Ulus,1.0,-0.8,1,1,0,0
+N4,Tandogan,-0.5,0.0,0,1,1,0
+N5,Besevler,-1.0,0.2,0,1,1,0
+N6,Cukurambar,-0.3,-0.6,0,1,0,1
+N7,Bahcelievler,-0.8,-0.2,0,1,0,1
+N8,Kecioren,1.5,0.2,0,1,0,0
+N9,ASTI,-0.7,-0.9,0,1,0,0
+N10,Gar,0.3,-0.9,0,1,1,0
